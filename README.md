@@ -1,2 +1,2 @@
 # MineSweeper
-# java Game
+Java Game
